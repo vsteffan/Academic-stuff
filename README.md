@@ -12,7 +12,7 @@ This is just a place to store my Bachelor's, Master's and Ph.D. theses - for me,
  * "Quantum max-flow in the bridge graph" can be found [here](https://arxiv.org/abs/2212.09794)
  * "The resource theory of tensor networks" can be found [here](https://arxiv.org/abs/2307.07394)
 
-## 🖋️ Popscience articles 🖋️
+## 🖋️ Popscience articles I coauthored🖋️
  * "Matematikere afslører smitteveje med corona" can be found [here](https://aktuelnaturvidenskab.dk/find-artikel/nyeste-numre/3-2020/corona-matematik)
 
 For more information, find me [on google scholar](https://scholar.google.com/citations?user=UIaukY8AAAAJ&hl=de).
