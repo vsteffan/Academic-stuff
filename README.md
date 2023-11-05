@@ -1,4 +1,4 @@
-## 🎓 My theses and papers 🎓
+# 🎓 My theses and papers 🎓
 
 This is just a place to store my Bachelor's, Master's and Ph.D. theses - for me, to always have it at hand and, of course, for anybody who wants to see it. 
 
